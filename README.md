@@ -1,4 +1,4 @@
-# LibraryApp
+# Weather Sensor REST API and Client Project
 
 Project is done as a technical task example.
 
